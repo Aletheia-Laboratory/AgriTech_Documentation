@@ -177,11 +177,3 @@ backend/
 └── README.md
 ```
 
-## 📞 Contatti
-
-In caso di difficoltà o domande, puoi contattarmi:
-
-✉️ **Email:** [me@checcoconf.it](mailto:me@checcoconf.it)  
-💬 **Telegram:** [@checcoconf](https://t.me/checcoconf)
-
----
